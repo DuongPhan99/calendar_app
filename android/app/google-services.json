@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219643215349",
+    "project_id": "time-app-1e9ad",
+    "storage_bucket": "time-app-1e9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219643215349:android:7b07dd9f8c1270d7c274bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_time_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219643215349-e6s3g4jif3b4ng36m04utmj01hji8r5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_time_app",
+            "certificate_hash": "dbdcebed2b07a7512c5fddda6140480d47637ced"
+          }
+        },
+        {
+          "client_id": "219643215349-p16t2udgani82nso36bs2tn5dklt12a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJf7oF3MvEtJwuRD7kXAHjuh6_OUuoG-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219643215349-p16t2udgani82nso36bs2tn5dklt12a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
